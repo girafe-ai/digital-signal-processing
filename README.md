@@ -2,7 +2,7 @@
 
   🔊Lecturer: Ivan Beskrovny
   
-  🔊Pre-recorder video lectures: see group chat.
+  🔊Pre-recorded video lectures: see group chat.
   
   🔊Live Q&A sessions: Wednesdays 19:00 GMT+3. Recordings are uploaded afterwards.
   
@@ -10,7 +10,7 @@
  
  All homeworks can be found in "homework" folder.
  
- 1 week assignment (deadline - November 2nd)
+ 1st week assignment (deadline - November 2nd)
  [[submit here](https://forms.gle/L8TeNQi1xz16pDcu5)]
  
  # Literature
