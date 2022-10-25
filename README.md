@@ -10,7 +10,7 @@
  
  All homeworks can be found in "homework" folder.
  
- 1 week assignment
+ 1 week assignment (deadline - November 2nd)
  [[submit here](https://forms.gle/L8TeNQi1xz16pDcu5)]
  
  # Literature
